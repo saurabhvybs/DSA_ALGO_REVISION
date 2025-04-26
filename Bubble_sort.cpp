@@ -1,7 +1,7 @@
 // In Bubble sort the main idea is to iterate over the array each time and compare the elements from starting each time
 // with its neighbour element and if it is  greater then swap it in this way in each iteration largest element will
 // automatically be placed at the last of the array.
-// time complexity will still be O(n^2). first time it will iterate over n element second time n-1 then n-2....
+// time complexity will still be O(n^2) for Worst and Avg but for best case it will be O(n). first time it will iterate over n element second time n-1 then n-2....
 
 #include <bits/stdc++.h>
 using namespace std;
